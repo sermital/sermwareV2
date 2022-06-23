@@ -1,5 +1,5 @@
 if game.PlaceId == 1537690962 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/games/bss.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/sermital/sermwareV2/main/mainScript.lua"))()
 elseif game.PlaceId == 6284583030 or game.PlaceId == 7722306047 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/games/psx.lua"))()
 else
